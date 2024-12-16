@@ -1,8 +1,8 @@
 .cover {
-    height: 220px; /* Установим фиксированную высоту */
+    height: 220px;
     width: 100%;
-    background-size: contain; /* Сохраняем пропорции и масштабируем изображение */
+    background-size: contain; 
     background-position: center;
-    background-repeat: no-repeat; /* Изображение не будет повторяться */
+    background-repeat: no-repeat;
     border-radius: 10px;
 }

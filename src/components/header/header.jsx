@@ -5,7 +5,7 @@ import { CartBlock } from "../cart-block";
 
 export const Header = () => {
   const handleScrollToAbout = () => {
-    const aboutImage = document.getElementById('about-image'); // Ссылаемся на фоновое изображение
+    const aboutImage = document.getElementById('about-image');
     aboutImage?.scrollIntoView({ behavior: 'smooth' });
   };
 
